@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/edtech-hub/static/css/main.eb83629a.css",
+    "main.js": "/edtech-hub/static/js/main.1671cf3e.js",
+    "static/media/remixicon.svg?t=1590207869815": "/edtech-hub/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/edtech-hub/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/edtech-hub/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/edtech-hub/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/hero-img1.png": "/edtech-hub/static/media/hero-img1.12a6ce0ca7090bbe2a38.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/edtech-hub/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/glyphicons-halflings-regular.svg": "/edtech-hub/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/testimonial01.png": "/edtech-hub/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/about-us.png": "/edtech-hub/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-design.png": "/edtech-hub/static/media/web-design.9071c3ef125375e2469a.png",
+    "static/media/why-choose-us.png": "/edtech-hub/static/media/why-choose-us.5ec7e3b24c1cb791bf4c.png",
+    "static/media/seo.png": "/edtech-hub/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/edtech-hub/static/media/web-development.91ce53388df7bc88002c.png",
+    "static/media/kids-learning.png": "/edtech-hub/static/media/kids-learning.fcd258b6f9310b2dd2af.png",
+    "static/media/ui-ux.png": "/edtech-hub/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/glyphicons-halflings-regular.ttf": "/edtech-hub/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/graphics-design.png": "/edtech-hub/static/media/graphics-design.08c25c6b6b3ecac266d2.png",
+    "static/media/glyphicons-halflings-regular.woff": "/edtech-hub/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/edtech-hub/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/edtech-hub/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/slick.svg": "/edtech-hub/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/edtech-hub/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/edtech-hub/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/edtech-hub/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/edtech-hub/index.html",
+    "main.eb83629a.css.map": "/edtech-hub/static/css/main.eb83629a.css.map",
+    "main.1671cf3e.js.map": "/edtech-hub/static/js/main.1671cf3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb83629a.css",
+    "static/js/main.1671cf3e.js"
+  ]
+}
